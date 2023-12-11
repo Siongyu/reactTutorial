@@ -11,7 +11,7 @@ Learnt:
 - props (passing data from one page to another) 👍
 - Routing (BrowserRouter, Route, Routes, Link, useParams) 👍
 - Custom hooks (useFetch) 👍
-- API fetching via ```fetch``` (Create, Retrieve, Delete)
+- API fetching via ```fetch``` (Create, Retrieve, Delete) 👍
 - Form inputs 👍
 - Local JSON database (JSON server) 👍
 
