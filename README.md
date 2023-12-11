@@ -12,7 +12,7 @@ Learnt:
 - Routing (BrowserRouter, Route, Routes, Link, useParams) 👍
 - Custom hooks (useFetch) 👍
 - API fetching via ```fetch``` (Create, Retrieve, Delete) 👍
-- Form inputs 👍
+- Form handling (inputs, textarea, select) 👍
 - Local JSON database (JSON server) 👍
 
 In order to create a local JSON database, create a db.json filled with data and run
